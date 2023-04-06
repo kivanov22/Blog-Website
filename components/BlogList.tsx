@@ -4,7 +4,7 @@ type Props ={
     posts:Post[];
 };
 
-const BlogList = () => {
+const BlogList = ({posts}:Props) => {
   return (
     <div>BlogList</div>
   )
