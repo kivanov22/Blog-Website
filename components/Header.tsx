@@ -7,15 +7,16 @@ const Header = () => {
     <header className="flex items-center justify-between space-x-2 font-bold px-10 py-5">
       <div className="flex items-center space-x-2">
         <Link href="/">
-          <Image
+          <p className="text-2xl">KristianIvanov<span className="text-[#F7AB0A] text-3xl">Blog</span></p>
+          {/* <Image
             src="/ivanovLogo.png"
             alt="logo"
             className="rounded-full"
             height={50}
             width={50}
-          />
+          /> */}
         </Link>
-        <h1>Kristian Ivanov</h1>
+        {/* <h1>Kristian Ivanov</h1> */}
       </div>
       <div className="flex gap-5">
         <p>HOME</p>
