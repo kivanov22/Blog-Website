@@ -10,6 +10,15 @@
   <a href="#getting-started">Getting Started</a> •
 </p>
 
+## Demo
+
+Demo -> https://blog-website-nextjs-sanity.vercel.app/
+
+
+## Project Screenshots
+
+![](link)
+
 
 ## Key Features
 - Create a post
