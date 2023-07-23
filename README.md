@@ -17,7 +17,19 @@ Demo -> https://blog-website-nextjs-sanity.vercel.app/
 
 ## Project Screenshots
 
-![](link)
+![](https://github.com/kivanov22/Blog-Website/blob/main/public/projectScreenshots/blog1.png)
+
+-----
+![](https://github.com/kivanov22/Blog-Website/blob/main/public/projectScreenshots/blog2.png)
+
+---
+![](https://github.com/kivanov22/Blog-Website/blob/main/public/projectScreenshots/blog3.png)
+---
+
+![](https://github.com/kivanov22/Blog-Website/blob/main/public/projectScreenshots/blog4.png)
+---
+![](https://github.com/kivanov22/Blog-Website/blob/main/public/projectScreenshots/blog5.png)
+---
 
 
 ## Key Features
